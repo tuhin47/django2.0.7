@@ -15,3 +15,9 @@ python manage.py Shell
 #windows delete all pyc file
 
 Get-ChildItem * -Include *.pyc -Recurse | Remove-Item
+
+#11 - Change a Model
+
+in models blank=true represents the filled is mendatory or not
+
+#12 - Default Homepage to Custom Homepage2
