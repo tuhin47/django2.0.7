@@ -25,3 +25,5 @@ in models blank=true represents the filled is mendatory or not
 #13 - URL Routing and Requests
 
 #14 - Django Templates
+
+#15 - Django Templating Engine Basics
