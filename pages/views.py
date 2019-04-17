@@ -5,4 +5,5 @@ from django.http import HttpResponse
 
 def home_view(request, *args, **kwargs):
     print(request.user)
-    return HttpResponse("<h1>HW</h1>")
+    user = {"name": request.user}
+    return render(request, "home.html", user)

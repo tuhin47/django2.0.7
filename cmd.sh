@@ -23,3 +23,5 @@ in models blank=true represents the filled is mendatory or not
 #12 - Default Homepage to Custom Homepage
 
 #13 - URL Routing and Requests
+
+#14 - Django Templates
