@@ -20,4 +20,6 @@ Get-ChildItem * -Include *.pyc -Recurse | Remove-Item
 
 in models blank=true represents the filled is mendatory or not
 
-#12 - Default Homepage to Custom Homepage2
+#12 - Default Homepage to Custom Homepage
+
+#13 - URL Routing and Requests
